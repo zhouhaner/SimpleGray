@@ -1,0 +1,2 @@
+# SimpleGray
+blog
